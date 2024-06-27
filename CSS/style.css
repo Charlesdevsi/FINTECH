@@ -1,0 +1,35 @@
+button {
+
+    width: 90px;
+    height: 45px;
+    
+    
+    
+}
+
+body {
+    background-color:rgb(120, 143, 128);
+}
+div{
+    text-align: center ;
+}
+
+h1 {
+    color: aqua;
+    text-align:center;
+    border-color: blue;
+    border-color: blue;
+}
+a{
+
+    color: blue;
+}
+.Servicos{
+    border-style: solid 45px 60px 60px;
+    
+    height: 70px;
+    background-color: blanchedalmond;
+    text-align: center;
+    
+
+}
